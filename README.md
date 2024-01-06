@@ -1,20 +1,25 @@
-https://media.discordapp.net/attachments/1191487304217415720/1193168060559921232/standard_4.gif?ex=65abbb59&is=65994659&hm=6a0b9c4dec7b9fc5acf263eef7118dab03c63b1943b450bcce513177f80a3168&=&width=1020&height=360
-<h1 align="center">Hey Devs, 👋🏻It's me Sentruss (Saish More)</h1>
-<h3 align="center">An enthusiastic game creator hailing from India.</h3>
-<p align="left"> <img src="https://media1.tenor.com/images/4d7a1a70465eca12f76cfb77da009ac0/tenor.gif?itemid=17445356" alt="sentruss" /> </p>
+![image](https://github.com/Sentruss/Sentruss/assets/153991897/f9ebf842-4c71-47da-98db-45f798218db0)
+
+<h1 align="center">Sentruss (Saish More) - An enthusiastic game creator hailing from India</h1>
+<h3 align="center">👨🏻‍💻 Developer</h3>
+<p align="center"> <img src="https://media1.tenor.com/images/4d7a1a70465eca12f76cfb77da009ac0/tenor.gif?itemid=17445356" alt="sentruss" /> </p>
 
 
-- 🔭 I’m currently working on **Game called 'warriors clash'**
+Greetings, fellow digital artisans! I'm Sentruss, a spirited game alchemist from the enchanting realms of India. Over the last two years, I've been immersed in the captivating dance of student life and game development, where every line of code weaves a story in the tapestry of virtual worlds.
 
-- 🌱 I’m currently learning **C++, Lua, 3D Modelling.**
+My journey began with the incantations of Lua and Python, spells that unlocked the door to the mesmerizing world of game development. Now, I'm poised to dive into the arcane languages of C++, the wizardry of Unity, the enchantments of Unreal Engine, and the artistic alchemy of Blender and Photoshop.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sentruss](https://github.com/Sentruss)
+In this mystical odyssey, I am not just a code-wielding sorcerer; I am an architect of dreams. Each project is a conjuration, a manifestation of creative energies blending seamlessly with the magic of technology. The pixels on the screen are not just bits; they are fragments of dreams waiting to be shared.
 
-- 💬 Ask me about **Game Designs**
+Beyond the keyboard and screen, I find joy in sprinkling a bit of whimsy into every corner of life. Whether it's crafting digital wonders or scoring goals on the football field, every endeavor is a form of artistic expression.
 
-- 📫 How to reach me **saishmore9@gmail.com**
+As a digital sorcerer, my journey is intertwined with the fellowship of fellow magicians. I extend my hand to share insights, collaborate on mystical projects, and offer guidance to those navigating the arcane arts of game development.
 
-- ⚡ Fun fact **I play football too.**
+Join me on this mystical journey! Whether you're an experienced wizard or an apprentice of the arcane, let's collaborate, converse, and create wonders together. Reach out on Discord at [YourDiscordTag] or through email at saishmore9@gmail.com. I also accept commission payments in both real-world currency and in-game treasures, ensuring that the magic of creation knows no bounds.
+
+And when not immersed in the digital enchantments, you can find me on the football field, reveling in the joy of the beautiful game.
+
+Together, let's code, create, and play the game of dreams!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
