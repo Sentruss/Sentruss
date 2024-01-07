@@ -36,3 +36,41 @@ Together, let's code, create, and play the game of dreams!
 [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<details>
+  <summary>MY WORK</summary>
+
+  ## SENTRUSS RESUME  
+
+  Here are some program pictures I have made
+
+  ## LUA
+  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/b2dbb545-c0d6-4e64-8485-619e5a81cb45)
+  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/921f0f4c-a6c5-4cce-aab3-24f5fe34d328)
+  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/6db20b11-30ed-4981-9328-714399c36fe4)
+  ⬆️ This is my gun position and done manually and I have my dry code cuz it's old
+  ## PYTHON
+  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/a99d79dd-4413-4260-9ccd-a356bbce6ac9)
+  ⬆️ This is my bot development
+  <img width="995" alt="image" src="https://github.com/Sentruss/Sentruss/assets/153991897/d2c78343-c298-406d-8546-1bac770c2505">
+  ⬆️ This is my bot development (This too)
+  ## Blender
+  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/9fa47e3f-bdb9-4ae1-9361-1b571507225e)
+   ⬆️ This gun model
+  ## Profile
+  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/248481d7-4402-4f0a-b487-155d8e3017e3)
+   ⬆️ Roblox DevForum
+  ## Certificates (I don't think this is a showcase thing lol:\)
+   ![image](https://github.com/Sentruss/Sentruss/assets/153991897/43bba44a-678d-4056-a0db-d388689cc7bc)
+   ![image](https://github.com/Sentruss/Sentruss/assets/153991897/5bbd8a83-94eb-42a1-aeb1-b75f91188919)
+  ## Game Design
+   ![image](https://github.com/Sentruss/Sentruss/assets/153991897/fdcb9c8f-651d-46db-a767-33b37b791630)
+
+ I'm still learning some of the things as you saw I was doing manual animations and some UI/UX design new things coming soon !!
+
+
+
+
+ 
+
+
