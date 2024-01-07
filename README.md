@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://media1.tenor.com/images/4d7a1a70465eca12f76cfb77da009ac0/tenor.gif?itemid=17445356" alt="sentruss" /> </p>
 
 
-Greetings, fellow digital artisans! I'm Sentruss, a spirited game alchemist from the enchanting realms of India. Over the last two years, I've been immersed in the captivating dance of student life and game development, where every line of code weaves a story in the tapestry of virtual worlds.
+Greetings, fellow digital artisans! I'm Sentruss, a freelancer spirited game alchemist from the enchanting realms of India. Over the last two years, I've been immersed in the captivating dance of student life and game development, where every line of code weaves a story in the tapestry of virtual worlds.
 
 My journey began with the incantations of Lua and Python, spells that unlocked the door to the mesmerizing world of game development. Now, I'm poised to dive into the arcane languages of C++, the wizardry of Unity, the enchantments of Unreal Engine, and the artistic alchemy of Blender and Photoshop.
 
@@ -16,7 +16,7 @@ Beyond the keyboard and screen, I find joy in sprinkling a bit of whimsy into ev
 
 As a digital sorcerer, my journey is intertwined with the fellowship of fellow magicians. I extend my hand to share insights, collaborate on mystical projects, and offer guidance to those navigating the arcane arts of game development.
 
-Join me on this mystical journey! Whether you're an experienced wizard or an apprentice of the arcane, let's collaborate, converse, and create wonders together. Reach out on Discord at [YourDiscordTag] or through email at saishmore9@gmail.com. I also accept commission payments in both real-world currency and in-game treasures, ensuring that the magic of creation knows no bounds.
+Join me on this mystical journey! Whether you're an experienced wizard or an apprentice of the arcane, let's collaborate, converse, and create wonders together. Reach out on Discord at Sentruss #1816 or through email at saishmore9@gmail.com. I also accept commission payments in both real-world currency and in-game treasures, ensuring that the magic of creation knows no bounds.
 
 And when not immersed in the digital enchantments, you can find me on the football field, reveling in the joy of the beautiful game.
 
