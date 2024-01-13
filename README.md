@@ -1,4 +1,4 @@
-![image](https://github.com/Sentruss/Sentruss/assets/153991897/41390dd4-bd7d-4cfe-9323-5d50cff44004)
+![image](https://github.com/Sentruss/Sentruss/assets/153991897/0621872c-0557-4f38-a417-9f8be2407a46)
 
 
 <h1 align="center">Sentruss (Saish More) - An enthusiastic game creator hailing from India</h1>
