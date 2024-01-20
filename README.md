@@ -57,7 +57,10 @@
 <a href="https://instagram.com/saish_190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saish_190" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sentruss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sentruss" height="30" width="40" /></a>
 <a href="https://discord.gg/764061953936064532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="764061953936064532" height="30" width="40" /></a>
-</p>
+</p><a href="https://www.twitch.tv/sentruss" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="twitch" height="30" width="40" />
+</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
