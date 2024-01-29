@@ -1,25 +1,21 @@
 <p align="center"> <img src="https://media.discordapp.net/attachments/1187733951587029103/1196739611016298597/ezgif.com-resize.gif?ex=65b8b99d&is=65a6449d&hm=cce94ba210d33426fa0553ffeb84dae768b4e919bcee012cb015e666de8a9221&=&width=1620&height=648" alt="banner" /> </p>
-<h1 align="center">Sentruss (Saish More) - An enthusiastic game creator hailing from India</h1>
+<h1 align="center">Sentruss (Saish More) - An enthusiastic developer hailing from India</h1>
 <h3 align="center">👨🏻‍💻 Developer</h3>
 <p align="center"> <img src="https://media1.tenor.com/images/4d7a1a70465eca12f76cfb77da009ac0/tenor.gif?itemid=17445356" alt="sentruss" /> </p>
 
 ## SENTRUSS
 
-- Greetings, I'm Sentruss, a seasoned professional at the intersection of design, programming, and content creation, weaving a narrative in the digital landscape.
+• Hey there! I'm Sentruss, a versatile creator hailing from India, deeply passionate about coding, design, 3D modeling, and branding/marketing.
 
-- With a comprehensive background spanning over 2+ years, I've evolved into a meticulous UI/UX designer, immersing myself in the realms of Figma for collaborative design, Adobe Illustrator for vector brilliance, Photoshop for image refinement, and Blender for intricate 3D artistry. My design philosophy revolves around creating not just interfaces but engaging experiences that resonate with users.
+• In the realm of software development, I'm a proficient coder in JavaScript, Python, C++, HTML, CSS, and more. I specialize in crafting dynamic web experiences and robust applications that push the boundaries of technology.
 
-- As a programmer, I embark on coding journeys, transforming ideas into functional reality. The symphony of languages includes proficiency in Python for versatility, JavaScript for dynamic web experiences, and C++ for robust applications, allowing me to shape the logic behind seamless digital solutions.
+• On the design front, I leverage Adobe Illustrator, Photoshop, and Figma to create captivating visuals and memorable user experiences. My 3D modeling skills in Blender allow me to bring imaginative visions to life with stunning realism.
 
-- The canvas of creativity extends to content creation, where I wear the hat of a storyteller and visual artist. Leveraging tools like Figma for collaborative design, Adobe Suite for graphic excellence, Photoshop for image refinement, and Blender for intricate 3D artistry, I bring a multifaceted approach to every project.
+• My expertise extends to branding and marketing, where I ensure that each project is strategically aligned and leaves a lasting impression. From crafting cohesive brand identities to executing impactful marketing campaigns, I thrive on combining creativity with strategic thinking.
 
-- My journey is a perpetual quest for excellence, where each project serves as a stepping stone toward mastery in the ever-evolving realms of design and programming.
+• When I'm not immersed in coding and design, you'll find me exploring the creative wonders of Roblox Studio, where I unleash my creativity and build immersive experiences for players worldwide.
 
-- Collaboration is at the heart of my ethos. Whether it's delving into the nuances of UI/UX design, tackling complex coding challenges with Python, JavaScript, and C++, or exploring creative content endeavors, I invite fellow enthusiasts to connect.
-
-- Reach out on Discord at Sentruss #1816 or through email at saishmore9@gmail.com, and let's embark on a collaborative journey where innovation knows no limits.
-
-- Here's to the art of crafting digital experiences, where every pixel tells a story, every line of code defines functionality, and creativity thrives in the synergy of design and technology!
+• Reach me in discord Sentruss #1816, and my mail saishmore9@gmail.com
 
 - <details>
   <summary>MY WORK</summary>
