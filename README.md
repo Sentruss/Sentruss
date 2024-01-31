@@ -169,3 +169,37 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sentruss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+## ➤ API Reference
+
+### Submit form
+```http
+POST /api/form
+```
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `name`   | `string` | **Required**. Your name    |
+| `email`  | `string` | **Required**. Your email   |
+| `message`| `string` | **Required**. Your message |
+
+
+
+## ➤ API Reference 2
+
+### Get all users
+```http
+GET /api/users
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `token` | `string` | **Required**. Your auth token |
+
+### Get user by id
+```http
+GET /api/users/:userId
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `userId` | `string` | **Required**. Your user id |
+        
