@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://media.discordapp.net/attachments/1187733951587029103/1196739611016298597/ezgif.com-resize.gif?ex=65b8b99d&is=65a6449d&hm=cce94ba210d33426fa0553ffeb84dae768b4e919bcee012cb015e666de8a9221&=&width=1620&height=648" alt="banner" /> </p>
-<h1 align="center">Sentruss (Saish More) - An enthusiastic developer hailing from India</h1>
+<h1 align="center">Sentruss (Saish More) Programmer/Designer/Branding</h1>
 <h3 align="center">👨🏻‍💻 Developer</h3>
 <p align="center"> <img src="https://media1.tenor.com/images/4d7a1a70465eca12f76cfb77da009ac0/tenor.gif?itemid=17445356" alt="sentruss" /> </p>
 
