@@ -1,209 +1,165 @@
 <p align="center"> <img src="https://media.discordapp.net/attachments/1187733951587029103/1196739611016298597/ezgif.com-resize.gif?ex=65b8b99d&is=65a6449d&hm=cce94ba210d33426fa0553ffeb84dae768b4e919bcee012cb015e666de8a9221&=&width=1620&height=648" alt="banner" /> </p>
-<h1 align="center">Sentruss (Saish More) Programmer/Designer/Branding</h1>
-<h3 align="center">👨🏻‍💻 Developer</h3>
+<h1 align="center">Sentruss Full-Stack Developer</h1>
+<h3 align="center">👨🏻‍💻 Software Developer</h3>
 <p align="center"> <img src="https://media1.tenor.com/images/4d7a1a70465eca12f76cfb77da009ac0/tenor.gif?itemid=17445356" alt="sentruss" /> </p>
 
 ## SENTRUSS
 
-• Hey there! I'm Sentruss, a versatile creator hailing from India, deeply passionate about coding, design, 3D modeling, and branding/marketing.
+Hey Devs 👋🏻,
 
-• In the realm of software development, I'm a proficient coder in JavaScript, Python, C++, HTML, CSS, and more. I specialize in crafting dynamic web experiences and robust applications that push the boundaries of technology.
+My name is Sentruss A.K.A Saish, I'm a full-stack developer and a designer.
+I'm currently working on Typescript for discord bot development. My ongoing goal is to expand my knowledge and capabilities, in order to deliver even more exceptional experiences to the Developing Community. I am eager to take on new projects and opportunities, and I invite you to contact me through the Devforum to discuss your ideas.
 
-• On the design front, I leverage Adobe Illustrator, Photoshop, and Figma to create captivating visuals and memorable user experiences. My 3D modeling skills in Blender allow me to bring imaginative visions to life with stunning realism.
 
-• My expertise extends to branding and marketing, where I ensure that each project is strategically aligned and leaves a lasting impression. From crafting cohesive brand identities to executing impactful marketing campaigns, I thrive on combining creativity with strategic thinking.
+#### Reach me in discord Sentruss #1816, and my mail saishmore9@gmail.com
 
-• When I'm not immersed in coding and design, you'll find me exploring the creative wonders of Roblox Studio, where I unleash my creativity and build immersive experiences for players worldwide.
+<details>
+  <summary><b><big>Skills</big></b></summary>
+  <br>
+  - HTML (no one cares lol XD)
+  <br>
+  - CSS (no one cares lol XD)
+  <br>
+  - JavaScript
+  <br>
+  - TypeScript
+  <br>
+  - Express
+  <br>
+  - NodeJs
+  <br>
+  - React
+  <br>
+  - SQL
+  <br>
+  - MongoDB
+  <br>
+  - C++
+  <br>
+  - Python
+  <br>
+  - Vim
+  <br>
+  - Vs Code
+  <br>
+  - Replit
+   <br>
+  - Adobe Photoshop
+  <br>
+  - Adobe Illustrator
+  <br>
+  - Figma
+</details>
 
-• Reach me in discord Sentruss #1816, and my mail saishmore9@gmail.com
-
-- <details>
-  <summary>MY WORK</summary>
-
-  ## SENTRUSS PAST WORK
-
-  Here are some program pictures I have made
-
-  ## LUA
-  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/b2dbb545-c0d6-4e64-8485-619e5a81cb45)
-  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/921f0f4c-a6c5-4cce-aab3-24f5fe34d328)
-  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/6db20b11-30ed-4981-9328-714399c36fe4)
-  ⬆️ This is my gun position and done manually and I have my dry code cuz it's old
-  ## PYTHON
-  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/a99d79dd-4413-4260-9ccd-a356bbce6ac9)
-  ⬆️ This is my bot development
-  <img width="995" alt="image" src="https://github.com/Sentruss/Sentruss/assets/153991897/d2c78343-c298-406d-8546-1bac770c2505">
-  ⬆️ This is my bot development (This too)
-  ## Blender
-  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/9fa47e3f-bdb9-4ae1-9361-1b571507225e)
-   ⬆️ This gun model
-  ## Profile
-  ![image](https://github.com/Sentruss/Sentruss/assets/153991897/248481d7-4402-4f0a-b487-155d8e3017e3)
-   ⬆️ Roblox DevForum
-  ## Certificates (I don't think this is a showcase thing lol:\)
-   ![image](https://github.com/Sentruss/Sentruss/assets/153991897/43bba44a-678d-4056-a0db-d388689cc7bc)
-   ![image](https://github.com/Sentruss/Sentruss/assets/153991897/5bbd8a83-94eb-42a1-aeb1-b75f91188919)
-  ## Game Design
-   ![image](https://github.com/Sentruss/Sentruss/assets/153991897/fdcb9c8f-651d-46db-a767-33b37b791630)
-
- I'm still learning some of the things as you saw I was doing manual animations and some UI/UX design new things coming soon !!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/saish_190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saish_190" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sentruss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sentruss" height="30" width="40" /></a>
-<a href="https://discord.gg/764061953936064532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="764061953936064532" height="30" width="40" /></a>
-</p><a href="https://www.twitch.tv/sentruss" target="_blank">
+  <a href="https://www.youtube.com/channel/UC_QSIAaBfFuds48C1WDlAMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sentruss" height="30" width="40" /></a>
+<a href="discordapp.com/users/764061953936064532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="764061953936064532" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/sentruss" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="twitch" height="30" width="40" />
-</a>
+</a> </p>
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Languages and Tools -->
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: black;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" style="filter: invert(1);"/>
-  <span style="font-weight: bold; font-size: 12px;"/span><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/>
-  </a>
-</p>
-</a>  <!-- Adobe Premiere Pro -->
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere-pro" width="40" height="40"/>
-  </a>
-</p><!-- HTML programming language -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <!-- HTML -->
+  <a href="https://www.geeksforgeeks.org/html-introduction/" target="_blank" rel="noreferrer">
+    <img src="https://clipground.com/images/html5-logo-2.png" alt="HTML" width="40" height="40">
   </a>
 
-  <!-- CSS programming language -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <!--CSS-->
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+ </a>
+
+  <!-- JavaScript -->
+  <a href="https://www.geeksforgeeks.org/javascript-introduction/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.CqUUD0ZhIPigcF4wiN3AhgAAAA?w=400&h=400&rs=1&pid=ImgDetMain" alt="JavaScript" width="40" height="40">
+  </a>
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.maKe3jXsLd8flovNsX2_3QHaHa?rs=1&pid=ImgDetMain" alt="TypeScript" width="40" height="40">
+  </a>
+
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.Dbbsi4_1MA-1IGQRK894sQAAAA?rs=1&pid=ImgDetMain" alt="Express" width="40" height="40">
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40">
   </a>
 
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40">
   </a>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <!-- SQL -->
+  <a href="https://www.geeksforgeeks.org/sql-tutorial/" target="_blank" rel="noreferrer">
+    <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40">
   </a>
+
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB" width="40" height="40">
   </a>
-  <!-- Photoshop -->
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="photoshop" width="40" height="40"/>
-</a>
+  <!-- C++ -->
+  <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer">
+    <img src="https://i.pinimg.com/originals/0b/84/9c/0b849c72f38362fe12072a4916660013.png" alt="C++" width="40" height="40">
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/doc/essays/blurb/" target="_blank" rel="noreferrer">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="40" height="40">
+  </a>
+
+  <!-- Vim -->
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="40" height="40">
+  </a>
+
+  <!-- Vs Code -->
+  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="Vs Code" width="40" height="40">
+  </a>
+
+  <!-- Replit -->
+  <a href="https://docs.replit.com/" target="_blank" rel="noreferrer">
+    <img src="https://theme.zdassets.com/theme_assets/18243520/909f6b5f587952ee2f567c158db431d9360acec9.png" alt="Replit" width="40" height="40">
+  </a>
+
+  <!-- Adobe Photoshop -->
+  <a href="https://helpx.adobe.com/photoshop/tutorials.html" target="_blank" rel="noreferrer">
+    <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG12.png" alt="Adobe Photoshop" width="40" height="40">
+  </a>
+
+  <!-- Adobe Illustrator -->
+  <a href="https://helpx.adobe.com/illustrator/tutorials.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40">
+  </a>
+
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40">
   </a>
-
-
-  <!-- Microsoft -->
-  <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40"/>
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <!-- Visual Studio Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
-</p>
-<!-- TypeScript programming language -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
-</a>
-<!-- Java programming language -->
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-</a>
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-</a>
-<!-- Kubernetes -->
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-</a>
-
-<!-- GitLab -->
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
-</a>
-
-<!-- AWS (Amazon Web Services) -->
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-</a>
+  
+</details>
 
 
 
 
-[![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Sentruss/Sentruss-/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
- 
-
-
- ![](https://raw.githubusercontent.com/Sentruss/Sentruss-\/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sentruss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sentruss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-## ➤ API Reference
-
-### Submit form
-```http
-POST /api/form
-```
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `name`   | `string` | **Required**. Your name    |
-| `email`  | `string` | **Required**. Your email   |
-| `message`| `string` | **Required**. Your message |
+[![Sentruss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sentruss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sentruss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-## ➤ API Reference 2
 
-### Get all users
-```http
-GET /api/users
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `token` | `string` | **Required**. Your auth token |
-
-### Get user by id
-```http
-GET /api/users/:userId
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `userId` | `string` | **Required**. Your user id |
         
