@@ -38,16 +38,6 @@ I'm currently working on Typescript for discord bot development. My ongoing goal
   <br>
   - Python
   <br>
-  - Vim
-  <br>
-  - Vs Code
-  <br>
-  - Replit
-   <br>
-  - Adobe Photoshop
-  <br>
-  - Adobe Illustrator
-  <br>
   - Figma
 </details>
 
@@ -121,36 +111,8 @@ I'm currently working on Typescript for discord bot development. My ongoing goal
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python" width="40" height="40">
   </a>
 
-  <!-- Vim -->
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="40" height="40">
-  </a>
 
-  <!-- Vs Code -->
-  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="Vs Code" width="40" height="40">
-  </a>
 
-  <!-- Replit -->
-  <a href="https://docs.replit.com/" target="_blank" rel="noreferrer">
-    <img src="https://theme.zdassets.com/theme_assets/18243520/909f6b5f587952ee2f567c158db431d9360acec9.png" alt="Replit" width="40" height="40">
-  </a>
-
-  <!-- Adobe Photoshop -->
-  <a href="https://helpx.adobe.com/photoshop/tutorials.html" target="_blank" rel="noreferrer">
-    <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG12.png" alt="Adobe Photoshop" width="40" height="40">
-  </a>
-
-  <!-- Adobe Illustrator -->
-  <a href="https://helpx.adobe.com/illustrator/tutorials.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40">
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40">
-  </a>
-  
 </details>
 
 
